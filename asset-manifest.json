@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FigmaDesign/static/css/main.a5987477.css",
+    "main.js": "/FigmaDesign/static/js/main.9f15442b.js",
+    "index.html": "/FigmaDesign/index.html",
+    "main.a5987477.css.map": "/FigmaDesign/static/css/main.a5987477.css.map",
+    "main.9f15442b.js.map": "/FigmaDesign/static/js/main.9f15442b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5987477.css",
+    "static/js/main.9f15442b.js"
+  ]
+}
